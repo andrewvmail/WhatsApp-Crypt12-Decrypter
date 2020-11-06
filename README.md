@@ -2,9 +2,8 @@
 Decrypts WhatsApp msgstore.db.crypt12 files.
 
 ###### Usage:
-
-              python decrypt12.py key msgstore.db.crypt12 msgstore.db   
-              java -jar decrypt12.jar key msgstore.db.crypt12 msgstore.db  
+              pip3 install pycryptodomex
+              python3 decrypt12.py key msgstore.db.crypt12 msgstore.db   
   
 ###### Requirements:
   
